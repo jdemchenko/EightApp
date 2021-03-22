@@ -45,6 +45,7 @@
                     </view>
                     <connections>
                         <outlet property="ResultLabel" destination="v29-um-Ksc" id="3Bg-ur-cl4"/>
+                        <outlet property="buttounOutlet" destination="c2x-Nu-fwu" id="gTi-CB-0Fl"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="wuM-hC-ldM" userLabel="First Responder" sceneMemberID="firstResponder"/>
